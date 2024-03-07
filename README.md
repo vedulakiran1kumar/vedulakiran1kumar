@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Kiran Vedula
+- 👀 I’m interested in Data Science & Machine Learning
+- 🌱 I’m currently learning Genrative AI
+- 💞️ I’m looking to collaborate on Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, Deep Learning, Time Serise, NLP, SQL & Analytics
+- 📫 How to reach me kiranvedulapharma@gmail.com
+- 
